@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Bejamas Image Store
+
+![Screenshot_20220715_200242](https://user-images.githubusercontent.com/74965310/179322506-696d7244-6c08-438a-8112-b6cf9c32dcf0.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
